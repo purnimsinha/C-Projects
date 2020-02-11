@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/Desktop/test_cmake/ToDo.cc
+ToDo.h
+C:/Users/lenovo/Desktop/test_cmake/ToDo.h
+
+C:/Users/lenovo/Desktop/test_cmake/ToDo.h
+string
+-
+vector
+-
+
+C:/Users/lenovo/Desktop/test_cmake/main.cc
+iostream
+-
+conio.h
+-
+ToDo.h
+C:/Users/lenovo/Desktop/test_cmake/ToDo.h
+
